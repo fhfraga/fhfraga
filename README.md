@@ -1,7 +1,7 @@
 ### Olá, eu sou Fernando Henrique Fraga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-* Atualmente participo de um projeto de programação cientifica em físico-química. [Este](https://github.com/chicolucio/PhaseDiagram) é o projeto.
+* Atualmente participo de um projeto de programação cientifica em físico-química. [Este](https://github.com/fhfraga/PhaseDiagram) é o projeto.
 * Outro repositório do projeto acima é: [De broglie](https://github.com/fhfraga/de_broglie)
 
 * Estou aprendendo [Django](https://www.djangoproject.com/). [Este](https://github.com/fhfraga/curso-django) é o repositório e [este](https://cursodjangofernando.herokuapp.com/) o site que estou criando.
