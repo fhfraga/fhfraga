@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/apresentacao.gif" alt="gif apresentacao"height="500px" >
+  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/apresentacao.gif" alt="gif apresentacao"height="400px" >
 </p>
 
 
