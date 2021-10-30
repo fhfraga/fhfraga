@@ -22,7 +22,7 @@
     <img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/seaborn.svg" width="70" height="40" />
     <img title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/scikitlearn.svg" width="70" height="40" />
     <img title="Statsmodels" alt="Statsmodels" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/statsmodels.svg" width="70" height="40" />
-    <img title="Git" alt="Git" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/git.svg" width="70" height="40" />
+    <img title="Git" alt="Git" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/git.svg" width="70" height="40" />
     <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/linux.svg" width="70" height="40" />
     <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/mysql.svg" width="70" height="40" />
     <img title="Microsoft Excel" alt="Microsoft Excel" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/microsoftexcel.svg" width="70" height="40" />
@@ -32,16 +32,16 @@
 ### 📖 O que estou aprendendo/melhorando no momento 
 <p align="center">
 <img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/folium.svg" width="70" height="40" />
- <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/aws.svg" width="70" height="40" />
+ <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/amazonaws.svg" width="70" height="40" />
  <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/metabase.svg" width="70" height="40" />
   <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/django.svg" width="70" height="40" />
 </p>
 
 ### ⚡ O que quero aprender futuramente
+<p align="center">
 <img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
 <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/flask.svg" width="70" height="40" />
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/code.gif" alt="gif código"height="400px" >
 </p>
 
