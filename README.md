@@ -32,7 +32,7 @@
 ### 📖 O que estou aprendendo/melhorando no momento 
 <p align="center">
 <img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/folium.svg" width="70" height="40" />
- <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/amazonaws.svg" width="70" height="40" />
+ <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/amazonaws.svg" width="70" height="40" />
  <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/metabase.svg" width="70" height="40" />
   <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/django.svg" width="70" height="40" />
 </p>
