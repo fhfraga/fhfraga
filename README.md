@@ -1,32 +1,58 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/apresentacao.gif" alt="gif apresentacao"height="400px" >
+  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/apresentacao.gif" alt="gif apresentacao"height="500px" >
 </p>
 
 
-### Olá, eu sou Fernando Henrique Fraga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 * Atualmente sou cientista de dados na [Fiocruz](https://portal.fiocruz.br/)
+    - Estou participando de um projeto de criação de ambientes inteligentes baseado em dados.
 
 ### Habilidades
-Por fazer parte de um projeto de computação cientifica com Python, minhas principais habilidades são com ferramentas cientificas ou de teste como: [Numpy](https://numpy.org/), [Matplolib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [SciPy](https://www.scipy.org/), [Seaborn](https://seaborn.pydata.org/), [Pint](https://pint.readthedocs.io/) e [Pytest](https://pytest.org/). Algumas outras ferramentas como [Scikit-learn](https://scikit-learn.org/) e Django, possuo algum conhecimento.
+* Análises estatísticas
+* Modelagem estatística
+* Machine Learning
+* Visualizações de dados
+### 🛠 Tecnologias e ferramentas
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/python.svg" width="70" height="40" />
+    <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/pandas.svg" width="70" height="40" />
+    <img title="Numpy" alt="Numpy" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/numpy.svg" width="70" height="40" />
+    <img title="Matplotlib" alt="Matplotlib" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/matplot.svg" width="70" height="40" />
+    <img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/seaborn.svg" width="70" height="40" />
+    <img title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/scikitlearn.svg" width="70" height="40" />
+    <img title="Statsmodels" alt="Statsmodels" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/statsmodels.svg" width="70" height="40" />
+    <img title="Git" alt="Git" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/git.svg" width="70" height="40" />
+    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/linux.svg" width="70" height="40" />
+    <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/mysql.svg" width="70" height="40" />
+    <img title="Microsoft Excel" alt="Microsoft Excel" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/microsoftexcel.svg" width="70" height="40" />
+   <img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/heroku.svg" width="70" height="40" />
+</p>
 
-### Tecnologias e ferramentas
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Science-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+### 📖 O que estou aprendendo/melhorando no momento 
+<p align="center">
+<img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/folium.svg" width="70" height="40" />
+ <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/aws.svg" width="70" height="40" />
+ <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/metabase.svg" width="70" height="40" />
+  <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/django.svg" width="70" height="40" />
+</p>
 
-### Estatística GitHub
+### ⚡ O que quero aprender futuramente
+<img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
+<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/flask.svg" width="70" height="40" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfraga&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/code.gif" alt="gif código"height="400px" >
+</p>
 
-
+### 🔍 Onde você pode me encontrar:
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/fhfraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://fhfraga.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href = "mailto:f.henrique.fraga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/fhfraga"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
+
+### Estatística GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfraga&show_icons=true&theme=dark)
