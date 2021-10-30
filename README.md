@@ -15,31 +15,31 @@
 * Visualizações de dados
 ### 🛠 Tecnologias e ferramentas
 <p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/python.svg" width="70" height="40" />
-    <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/pandas.svg" width="70" height="40" />
-    <img title="Numpy" alt="Numpy" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/numpy.svg" width="70" height="40" />
-    <img title="Matplotlib" alt="Matplotlib" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/matplot.svg" width="70" height="40" />
-    <img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/seaborn.svg" width="70" height="40" />
-    <img title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/scikitlearn.svg" width="70" height="40" />
-    <img title="Statsmodels" alt="Statsmodels" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/statsmodels.svg" width="70" height="40" />
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/python.svg" width="70" height="40" />
+    <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/pandas.svg" width="70" height="40" />
+    <img title="Numpy" alt="Numpy" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/numpy.svg" width="70" height="40" />
+    <img title="Matplotlib" alt="Matplotlib" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/matplot.svg" width="70" height="40" />
+    <img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/seaborn.svg" width="70" height="40" />
+    <img title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/scikitlearn.svg" width="70" height="40" />
+    <img title="Statsmodels" alt="Statsmodels" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/statsmodels.svg" width="70" height="40" />
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/git.svg" width="70" height="40" />
-    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/linux.svg" width="70" height="40" />
-    <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/mysql.svg" width="70" height="40" />
-    <img title="Microsoft Excel" alt="Microsoft Excel" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/microsoftexcel.svg" width="70" height="40" />
-   <img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/heroku.svg" width="70" height="40" />
+    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/linux.svg" width="70" height="40" />
+    <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/mysql.svg" width="70" height="40" />
+    <img title="Microsoft Excel" alt="Microsoft Excel" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/microsoftexcel.svg" width="70" height="40" />
+   <img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/heroku.svg" width="70" height="40" />
 </p>
 
 ### 📖 O que estou aprendendo/melhorando no momento 
 <p align="center">
-<img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/folium.svg" width="70" height="40" />
+<img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/folium.svg" width="70" height="40" />
  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/aws.svg" width="70" height="40" />
- <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/metabase.svg" width="70" height="40" />
-  <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/django.svg" width="70" height="40" />
+ <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/metabase.svg" width="70" height="40" />
+  <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/django.svg" width="70" height="40" />
 </p>
 
 ### ⚡ O que quero aprender futuramente
-<img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
-<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/Thomas-fhfraga/master/imagens/flask.svg" width="70" height="40" />
+<img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
+<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/flask.svg" width="70" height="40" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/code.gif" alt="gif código"height="400px" >
