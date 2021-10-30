@@ -5,6 +5,11 @@
 
 ### Olá, eu sou Fernando Henrique Fraga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<<<<<<< HEAD
+=======
+* Atualmente participo de um projeto de programação cientifica em físico-química. [Este](https://github.com/fhfraga/PhaseDiagram) é o projeto.
+* Outro repositório do projeto acima é: [De broglie](https://github.com/fhfraga/de_broglie)
+>>>>>>> efda3b4237bb54bc47d737c0663ce3b87e265491
 
 * Atualmente sou cientista de dados na [Fiocruz](https://portal.fiocruz.br/)
 
