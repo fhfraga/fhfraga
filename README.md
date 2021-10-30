@@ -41,7 +41,9 @@
 <p align="center">
 <img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
 <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/flask.svg" width="70" height="40" />
+</p>
 
+<p align="center">  
   <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/code.gif" alt="gif código"height="400px" >
 </p>
 
