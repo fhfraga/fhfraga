@@ -28,11 +28,10 @@
 ![AWS](https://img.shields.io/badge/AWS-FF6F00?style=plastic&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2CA5E0?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-![Power-BI](https://img.shields.io/badge/Power%20BI-gold?style=plastic&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white)
-
+<!-- ![Power-BI](https://img.shields.io/badge/Power%20BI-gold?style=plastic&logo=powerbi&logoColor=black) -->
 
 ### ⚡ O que quero aprender futuramente
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=plastic&logo=streamlit&logoColor=black)
