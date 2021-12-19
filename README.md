@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/apresentacao.gif" alt="gif apresentacao"height="400px" >
-</p>
-
-
 ### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 * Atualmente sou cientista de dados na [Fiocruz](https://portal.fiocruz.br/)
@@ -14,39 +9,37 @@
 * Machine Learning
 * Visualizações de dados
 ### 🛠 Tecnologias e ferramentas
-<p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/python.svg" width="70" height="40" />
-    <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/pandas.svg" width="70" height="40" />
-    <img title="Numpy" alt="Numpy" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/numpy.svg" width="70" height="40" />
-    <img title="Matplotlib" alt="Matplotlib" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/matplot.svg" width="70" height="40" />
-    <img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/seaborn.svg" width="70" height="40" />
-    <img title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/scikitlearn.svg" width="70" height="40" />
-    <img title="Statsmodels" alt="Statsmodels" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/statsmodels.svg" width="70" height="40" />
-    <img title="Git" alt="Git" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/git.svg" width="70" height="40" />
-    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/linux.svg" width="70" height="40" />
-    <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/mysql.svg" width="70" height="40" />
-    <img title="Microsoft Excel" alt="Microsoft Excel" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/microsoftexcel.svg" width="70" height="40" />
-   <img title="Heroku" alt="Heroku" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/heroku.svg" width="70" height="40" />
-</p>
+![Python](https://img.shields.io/badge/Python-%23026AA7.svg?style=plastic&logo=python&logoColor=gold)
+![Numpy](https://img.shields.io/badge/NumPy-%23013253.svg?style=plastic&logo=numpy&logoColor=green)
+![pandas](https://img.shields.io/badge/pandas-0078d7.svg?style=plastic&logo=pandas&logoColor=hotpink)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-%23026AA7.svg?style=plastic&logo=scikit-learn&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/jupyter-orange?style=plastic&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gold?style=plastic&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-7952B3?style=plastic&logo=Heroku)
+![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?style=plastic&logo=LaTeX&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-003B57?style=plastic&logo=gnu-bash&logoColor=white)
+
 
 ### 📖 O que estou aprendendo/melhorando no momento 
-<p align="center">
-<img title="Folium" alt="Folium" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/folium.svg" width="70" height="40" />
- <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/amazonaws.svg" width="70" height="40" />
- <img title="Metabase" alt="Metabase" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/metabase.svg" width="70" height="40" />
-  <img title="Django" alt="Django" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/django.svg" width="70" height="40" />
-</p>
+![Metabase](https://img.shields.io/badge/Metabase-232F3E?style=plastic&logo=metabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF6F00?style=plastic&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2CA5E0?style=plastic&logo=microsoft-azure&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![Power-BI](https://img.shields.io/badge/Power%20BI-gold?style=plastic&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white)
+
 
 ### ⚡ O que quero aprender futuramente
-<p align="center">
-<img title="Streamlit" alt="Streamlit" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/streamlit.svg" width="70" height="40" />
-<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/flask.svg" width="70" height="40" />
-</p>
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=plastic&logo=streamlit&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/code.gif" alt="gif código"height="400px" >
-</p>
-
+<img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 ### 🔍 Onde você pode me encontrar:
 <p align="center">
 <div style="display: inline_block"> 
@@ -56,6 +49,15 @@
 </div>
 </p>
 
-### Estatística GitHub
+<!-- ### Estatística GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfraga&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=fhfraga&theme=dark)
+![](https://activity-graph.herokuapp.com/graph?username=fhfraga&theme=react-dark&bg_color=20232a)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="brunocomitre" />
+  <img src="https://komarev.com/ghpvc/?username=fhfraga" alt="brunocomitre" />
+</p> 
+-->
