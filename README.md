@@ -38,8 +38,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=plastic&logo=streamlit&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
-<img align="right" alt="Neto-pic" height="150" style="border-radius:50px;" 
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="right" alt="Ilustração do computador" height="150" style="border-radius:50px;" 
+  src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/computer-illustration.png">
 ### 🔍 Onde você pode me encontrar:
 <p align="center">
 <div style="display: inline_block"> 
@@ -57,7 +57,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=fhfraga&theme=react-dark&bg_color=20232a)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="brunocomitre" />
-  <img src="https://komarev.com/ghpvc/?username=fhfraga" alt="brunocomitre" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="fhfraga" />
+  <img src="https://komarev.com/ghpvc/?username=fhfraga" alt="fhfraga" />
 </p> 
 -->
