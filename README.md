@@ -19,9 +19,38 @@ personalizada para cada cliente.
 ### Habilidades
 
 - Análises estatísticas
+- Análises descritiva
+- Análises diagnóstica
+- Análises preditiva
 - Modelagem estatística
 - Machine Learning
 - Visualizações de dados
+- Tratamento e preparação dos dados
+- Levantamento e teste de hipóteses
+- Linguagem de programação Python
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
+    <li>Análises estatísticas</li>
+    <li>Análises descritiva</li>
+    <li>Análises diagnóstica</li>
+    <li>Análises preditiva</li>
+    <li>Modelagem estatística</li>
+    </td>
+    <td>
+    <li>Machine Learning</li>
+    <li>Visualizações de dados</li>
+    <li>Tratamento e preparação </li>dos dados
+    <li>Levantamento e teste de </li>hipóteses
+    <li>Linguagem de programação </li>Python
+    </td>
+ </tr>
+</table>
 
 ### 🛠 Tecnologias e ferramentas
 
