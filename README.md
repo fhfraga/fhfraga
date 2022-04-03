@@ -1,14 +1,30 @@
 ### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-* Atualmente sou cientista de dados na [Fiocruz](https://portal.fiocruz.br/)
-    - Estou participando de um projeto de criação de ambientes inteligentes baseado em dados.
+Atualmente sou cientista de dados na [Manfing](https://manfing.com/), uma Startup com foco
+em ajudar os seus clientes a melhorar suas vendas através de dados
+históricos e inteligência artificial, entregando um análise
+personalizada para cada cliente.
+
+### Experiência profissional
+
+- **Manfing**
+
+  - Cientista de dados:
+    - Abril, 2022 - Atualmente
+
+- **Fiocruz**
+  - Cientista de dados:
+    - Julho, 2021 - Abril, 2022
 
 ### Habilidades
-* Análises estatísticas
-* Modelagem estatística
-* Machine Learning
-* Visualizações de dados
+
+- Análises estatísticas
+- Modelagem estatística
+- Machine Learning
+- Visualizações de dados
+
 ### 🛠 Tecnologias e ferramentas
+
 ![Python](https://img.shields.io/badge/Python-%23026AA7.svg?style=plastic&logo=python&logoColor=gold)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013253.svg?style=plastic&logo=numpy&logoColor=green)
 ![pandas](https://img.shields.io/badge/pandas-0078d7.svg?style=plastic&logo=pandas&logoColor=hotpink)
@@ -22,8 +38,8 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Bash-003B57?style=plastic&logo=gnu-bash&logoColor=white)
 
+### 📖 O que estou aprendendo/melhorando no momento
 
-### 📖 O que estou aprendendo/melhorando no momento 
 ![Metabase](https://img.shields.io/badge/Metabase-232F3E?style=plastic&logo=metabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF6F00?style=plastic&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2CA5E0?style=plastic&logo=microsoft-azure&logoColor=white)
@@ -31,15 +47,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white)
+
 <!-- ![Power-BI](https://img.shields.io/badge/Power%20BI-gold?style=plastic&logo=powerbi&logoColor=black) -->
 
 ### ⚡ O que quero aprender futuramente
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=plastic&logo=streamlit&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
 <img align="right" alt="Ilustração do computador" height="150" style="border-radius:50px;" 
   src="https://raw.githubusercontent.com/fhfraga/fhfraga/master/imagens/computer-illustration.png">
+
 ### 🔍 Onde você pode me encontrar:
+
 <p align="center">
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/fhfraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -58,5 +78,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="fhfraga" />
   <img src="https://komarev.com/ghpvc/?username=fhfraga" alt="fhfraga" />
-</p> 
+</p>
 -->
