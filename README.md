@@ -1,22 +1,34 @@
 ### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Atualmente sou cientista de dados na [Manfing](https://manfing.com/), uma Startup com foco
-em ajudar os seus clientes a melhorar suas vendas através de dados
-históricos e inteligência artificial, entregando um análise
-personalizada para cada cliente.
+Atualmente sou cientista de dados na [CVC Corp](https://www.cvccorp.com.br/),
+o maior grupo de viagens da América Latina, formado por marcas que atuam no
+Brasil, Argentina e Estados Unidos, nos segmentos de viagens de férias e lazer,
+corporativas/negócios, educação(intercâmbio cultural no exterior) e de gestão e
+locação de residências (nos EUA e Brasil). Faço parte do time de ciência de
+dados da equipe de clientes.
 
 ### Experiência profissional
+
+- **CVC Corp**
+
+  - Cientista de dados:
+    - Junho, 2022 - Atualmente
 
 - **Manfing**
 
   - Cientista de dados:
-    - Abril, 2022 - Atualmente
+    - Abril, 2022 - Junho, 2022
 
 - **Fiocruz**
   - Cientista de dados:
     - Julho, 2021 - Abril, 2022
 
 ### Habilidades
+
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
 
 <table border="0">
  <tr>
