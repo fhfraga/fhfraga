@@ -1,4 +1,4 @@
-### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Bem-vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 Atualmente sou cientista de dados na [CVC Corp](https://www.cvccorp.com.br/),
 o maior grupo de viagens da América Latina, formado por marcas que atuam no
@@ -42,9 +42,9 @@ dados da equipe de clientes.
     <td>
     <li>Machine Learning</li>
     <li>Visualizações de dados</li>
-    <li>Tratamento e preparação </li>dos dados
-    <li>Levantamento e teste de </li>hipóteses
-    <li>Linguagem de programação </li>Python
+    <li>Tratamento e preparação dos dados </li>
+    <li>Levantamento e teste de hipóteses</li>
+    <li>Linguagem de programação Python</li>
     </td>
  </tr>
 </table>
