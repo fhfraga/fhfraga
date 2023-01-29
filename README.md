@@ -11,7 +11,7 @@ dados da equipe de clientes.
 
 - **CVC Corp**
 
-  - Cientista de dados:
+  - Cientista de dados/Engenheiro de dados:
     - Junho, 2022 - Atualmente
 
 - **Manfing**
@@ -45,6 +45,12 @@ dados da equipe de clientes.
     <li>Tratamento e preparação dos dados </li>
     <li>Levantamento e teste de hipóteses</li>
     <li>Linguagem de programação Python</li>
+    </td>
+    <td>
+    <li>Ingestão de dados</li>
+    <li>Linguagem SQL</li>
+    <li>PySpark</li>
+    <li>Criação de relatórios</li>
     </td>
  </tr>
 </table>
